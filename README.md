@@ -21,6 +21,10 @@
 </p>
 
 ---
+## 🌟 Featured Projects
+🚀 [**Smart Medicine Tracker**](https://github.com/Shiwam59/medicine-tracker) — AI-powered expiry alerts & donation system  
+🛠️ [**Portfolio Website**](https://github.com/Shiwam59/portfolio) — My personal portfolio built with React + Tailwind  
+⚡ [**Cool Electronics Project**](https://github.com/Shiwam59/electronics-project) — Hands-on hardware + coding fun  
 
 ## 📊 GitHub Universe  
 <p align="center">
@@ -37,13 +41,7 @@
 # 📈 Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shiwam59&theme=react-dark)
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Shiwam59&theme=radical&column=7)
 
-## 🌟 Featured Projects
-🚀 [**Smart Medicine Tracker**](https://github.com/Shiwam59/medicine-tracker) — AI-powered expiry alerts & donation system  
-🛠️ [**Portfolio Website**](https://github.com/Shiwam59/portfolio) — My personal portfolio built with React + Tailwind  
-⚡ [**Cool Electronics Project**](https://github.com/Shiwam59/electronics-project) — Hands-on hardware + coding fun  
 
 ---
 
